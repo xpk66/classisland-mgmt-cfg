@@ -1,0 +1,251 @@
+{
+    "Name": "",
+    "TimeLayouts": {},
+    "ClassPlans": {},
+    "Subjects": {
+       
+        "68de444f-55fc-4d04-b479-3b32c2affc6c": {
+            "Name": "信息技术",
+            "Initial": "信",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "f3aeebfd-cdef-41ee-b9f2-baacc666d7b8": {
+            "Name": "美术",
+            "Initial": "美",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "4ce81a6b-b06d-400d-8b89-2a12232686fd": {
+            "Name": "班会",
+            "Initial": "班",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "a21b3c3b-12bb-4ba8-be88-4c330fd34b50": {
+            "Name": "考试",
+            "Initial": "考",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "a0ef2538-58ae-4c66-aebd-12bf8e2f8863": {
+            "Name": "通用技术",
+            "Initial": "通",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "8fe9f865-1275-4cf2-b679-d5659935ba5b": {
+            "Name": "体育",
+            "Initial": "体",
+            "TeacherName": "",
+            "IsOutDoor": true,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "fd0cf51a-8f76-4cde-96f7-0e732cfd7802": {
+            "Name": "音乐",
+            "Initial": "音",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "9bea0412-e4eb-42b5-9f67-19bfffe08577": {
+            "Name": "物理",
+            "Initial": "物",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "6193a41e-e19a-4ebb-b4d4-08b8f1742ff1": {
+            "Name": "政治",
+            "Initial": "政",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "22542364-f394-4e55-8be0-0848e60c49f5": {
+            "Name": "化学",
+            "Initial": "化",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "253bd923-4ea4-49c3-a442-c7146ffb4ad1": {
+            "Name": "英语",
+            "Initial": "英",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "1260f24c-e368-4334-b8ce-7a4973830adb": {
+            "Name": "自习",
+            "Initial": "自",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "9cfc1330-77a3-409e-ac04-19b1f4dd02e5": {
+            "Name": "生物",
+            "Initial": "生",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "bbc1e47b-1a00-4fe3-b02a-d3390b1b5ab6": {
+            "Name": "数学",
+            "Initial": "数",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "db5531b8-a9d8-4206-ad58-bdf1d16c6d49": {
+            "Name": "语文",
+            "Initial": "语",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "8a43c798-4094-409e-b0b6-b0ce61f6bad4": {
+            "Name": "语文",
+            "Initial": "语",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "5dfc5c33-5e4b-438b-873c-861d2adf0123": {
+            "Name": "数学",
+            "Initial": "数",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "169e6936-efda-4164-9f28-58c6ea23eeb3": {
+            "Name": "英语",
+            "Initial": "英",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "64ad744a-07a8-430d-b0dc-8c01bed90600": {
+            "Name": "物理",
+            "Initial": "物",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "356234e3-dcf0-4c02-9d05-159de4a7f7cc": {
+            "Name": "化学",
+            "Initial": "化",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "38fd482c-ef46-4516-9fff-59aaea72dfa5": {
+            "Name": "生物",
+            "Initial": "生",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "8d79b7bb-5619-48c0-a173-c10f402b4f26": {
+            "Name": "政治",
+            "Initial": "政",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "892558aa-edc7-49f6-90a5-1b3416924482": {
+            "Name": "信息技术",
+            "Initial": "信",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "0261e1c2-26b4-40cc-82e9-9f3e5c2805d8": {
+            "Name": "通用技术",
+            "Initial": "通",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": false,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 0,
+                    "IsCountdownEnabled": true,
+                    "CountdownSeconds": 60,
+                    "ExtraInfo4ShowSecondsSeconds": 0,
+                    "ScheduleSpacing": 1,
+                    "ShowCurrentLessonOnlyOnClass": false,
+                    "IsNonExactCountdownEnabled": false,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "b50b7c1b-e76e-49ad-ae9e-37d5fddd7625": {
+            "Name": "体育",
+            "Initial": "体",
+            "TeacherName": "",
+            "IsOutDoor": true,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "64fbff5b-c7f3-4cfe-bb39-ff7162758df1": {
+            "Name": "自习",
+            "Initial": "自",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": false,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 0,
+                    "IsCountdownEnabled": true,
+                    "CountdownSeconds": 60,
+                    "ExtraInfo4ShowSecondsSeconds": 0,
+                    "ScheduleSpacing": 1,
+                    "ShowCurrentLessonOnlyOnClass": false,
+                    "IsNonExactCountdownEnabled": false,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "46e6a34c-b7a6-4c9c-a4e3-d20781fab626": {
+            "Name": "",
+            "Initial": "",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        }
+
+    }
+}
