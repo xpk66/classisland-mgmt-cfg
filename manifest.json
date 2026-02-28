@@ -1,6 +1,6 @@
 {
-   "CoreVersion": "2.0.0.0"
     "ServerKind": 0,
+    "CoreVersion": "2.0.0.0",
     "OrganizationName": "XPK",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/xpk66/classisland-mgmt-cfg/master/classplans.json",
